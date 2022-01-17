@@ -1,4 +1,5 @@
-function name(params) {
-    
-    console.log("3 commit ");
-}
+let a=10;
+let b=20;
+
+
+console.log(a+b);
